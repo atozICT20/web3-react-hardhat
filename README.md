@@ -1,8 +1,8 @@
-# Advanced Sample Hardhat Project
+# A Sample Hardhat Project Including Frontend on React
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
-The project comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. It also comes with a variety of other tools, preconfigured to work with the project code.
+The project comes with a simple contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. It also comes with a variety of other tools, preconfigured to work with the project code.
 
 Try running some of the following tasks:
 
@@ -38,5 +38,5 @@ hardhat run --network ropsten scripts/deploy.js
 Then, copy the deployment address and paste it in to replace `DEPLOYED_CONTRACT_ADDRESS` in this command:
 
 ```shell
-npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
+npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS
 ```
