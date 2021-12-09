@@ -1,4 +1,4 @@
-# A Sample Hardhat Project Including Frontend on React
+# A Sample Hardhat Project Including Frontend with React
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
